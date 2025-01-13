@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.3.11] - 2025-01-13
+
+### Fixed
+
+- Fix macos builds - ([29b55fe](https://github.com/beeb/awsbck/commit/29b55fe2bcc065174767eda395946498f01c2034))
+- Fix docker action - ([dfe5f33](https://github.com/beeb/awsbck/commit/dfe5f334d86235f79750cdd354e147390958f97d))
+
 ## [0.3.10] - 2025-01-13
 
 ### Changed
